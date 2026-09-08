@@ -1,5 +1,5 @@
 ## Interface: 11200
-## Title: Nampower Settings
+## Title: Nampower Settings |cff7fff7f - Project Legacy|r
 ## Author: Fork for Project Legacy by Ziq
 ## Notes: the companion compatibility addon to the mod of the same name.
 ## Title-zhCN:|CFFEE7600[模组增强]|R |cff00ffffNampower设置|R|cffff1450[需Nampower模组]
